@@ -7,5 +7,5 @@
 def bool_to_word(boolean):
     return 'Yes' if boolean else 'No'
 #test cases    
-print(bool_to_word(True))
-print(bool_to_word(False))
+print(bool_to_word(True)) #should print "Yes"
+print(bool_to_word(False)) #should print "No"

@@ -8,5 +8,5 @@
 def getCount(inputStr):
     return sum(1 for i in inputStr.lower() if i in "aeiou")    
 #test cases
-print (getCount("abracadabra"))
-print (getCount ("murcielago volador"))
+print (getCount("abracadabra")) #should print 5
+print (getCount ("murcielago volador")) #should print 8
