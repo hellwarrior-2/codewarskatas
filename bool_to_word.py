@@ -1,4 +1,5 @@
 #Exercise 8 kyu
+#Boolean to word
 #Convert boolean values to strings 'Yes' or 'No'.
 
 #Description:
